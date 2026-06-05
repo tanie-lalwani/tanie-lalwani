@@ -41,7 +41,7 @@
   &nbsp;&nbsp;
 
  <a href="https://linkedin.com/in/tanie-lalwani">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <img src="[https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://skillicons.dev/icons?i=linkedin)" />
  </a>
   &nbsp;&nbsp;
 
