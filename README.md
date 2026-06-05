@@ -40,9 +40,9 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/tanie-lalwani">
-    <img src="https://cdn.simpleicons.org/linkedin" width="28" />
-  </a>
+ <a href="https://linkedin.com/in/tanie-lalwani">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+ </a>
   &nbsp;&nbsp;
 
   <a href="https://instagram.com/tanie.mp3">
