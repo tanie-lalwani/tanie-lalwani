@@ -53,9 +53,7 @@
   <a href="https://x.com/tanielalwani">
     <img src="https://cdn.simpleicons.org/x" width="28" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://www.reddit.com/user/tanielalwani/">
     <img src="https://cdn.simpleicons.org/reddit" width="28" />
   </a>
@@ -79,9 +77,9 @@
   <a href="https://www.pinterest.com/tanielalwani">
     <img src="https://cdn.simpleicons.org/pinterest" width="28" />
   </a>
-</p>
 
-<p align="center">
+
+
   <a href="https://discord.com/invite/qmveDSKg">
     <img src="https://cdn.simpleicons.org/discord" width="28" />
   </a>
