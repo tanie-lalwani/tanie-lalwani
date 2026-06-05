@@ -29,19 +29,73 @@
 <img src="https://skillicons.dev/icons?i=figma,postman,notion,git,github" alt="Other Tools" style="margin-right:7px;" />
 
 ## 🌐 Socials:
-<p>
+<p align="center">
   <a href="https://tanie.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge">
+    <img src="https://cdn.simpleicons.org/googlechrome" width="28" />
   </a>
+  &nbsp;&nbsp;
+
   <a href="https://github.com/tanie-lalwani">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
+    <img src="https://cdn.simpleicons.org/github" width="28" />
   </a>
+  &nbsp;&nbsp;
+
   <a href="https://linkedin.com/in/tanie-lalwani">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+    <img src="https://cdn.simpleicons.org/linkedin" width="28" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/tanie.mp3">
+    <img src="https://cdn.simpleicons.org/instagram" width="28" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/tanielalwani">
+    <img src="https://cdn.simpleicons.org/x" width="28" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.reddit.com/user/tanielalwani/">
+    <img src="https://cdn.simpleicons.org/reddit" width="28" />
+  </a>
+  &nbsp;&nbsp;
 
+  <a href="https://www.youtube.com/channel/UC6HS5ZeDFWAWUDF3el7hl6A">
+    <img src="https://cdn.simpleicons.org/youtube" width="28" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://open.spotify.com/user/31mwy5o7trukjpmsv6pupa4dag5q?si=16AwCzXDQWSNPv2WUP9nPw">
+    <img src="https://cdn.simpleicons.org/spotify" width="28" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.soundcloud.com/tanielalwani">
+    <img src="https://cdn.simpleicons.org/soundcloud" width="28" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.pinterest.com/tanielalwani">
+    <img src="https://cdn.simpleicons.org/pinterest" width="28" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/invite/qmveDSKg">
+    <img src="https://cdn.simpleicons.org/discord" width="28" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://drive.google.com/drive/folders/1AiFap-wdsbkANX9OvqxvmgHdS0TPaxs4?usp=sharing">
+    <img src="https://cdn.simpleicons.org/googledrive" width="28" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:tanielalwani@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="28" />
+  </a>
+</p>
 
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=tanishaness&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
