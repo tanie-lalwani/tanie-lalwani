@@ -3,7 +3,7 @@
 </h1>
 
 
-  ## Hey, I’m Tanisha Lalwani </span><br>
+  ## Hey, I’m Tanie Lalwani </span><br>
 - Creative Developer: I like my sites standing out, do you?</span><br>
 - Got into tech out of curiosity, stayed because making stuff is addictive.</span><br><br>
 
