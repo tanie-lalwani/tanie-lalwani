@@ -29,11 +29,17 @@
 <img src="https://skillicons.dev/icons?i=figma,postman,notion,git,github" alt="Other Tools" style="margin-right:7px;" />
 
 ## 🌐 Socials:
-
-🌐https://tanie.me 📧 Email	tanielalwani@gmail.com
-📸 Instagram	@tanie.mp3
-💼 LinkedIn	@Tanisha-Lalwani
-
+<p>
+  <a href="https://tanie.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/tanie-lalwani">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/tanie-lalwani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  </a>
+</p>
 
 
 
