@@ -11,7 +11,7 @@ Got into tech out of curiosity, stayed because making stuff is addictive.
 
 ---
 
-## <em>T</em>ech Stack
+## **T**ech Stack
 
 ### Languages and Frameworks
 <p align="center">
