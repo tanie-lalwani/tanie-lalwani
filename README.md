@@ -10,7 +10,7 @@ I like my sites standing out, do you?
 ---
 
 
-## <span style="text-decoration: underline;">[𝕋)</span>ech Stack
+## <span style="text-decoration: underline;">(𝕋)</span>ech Stack
 
 ### Languages and Frameworks
 <p align="center">
