@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%">
+  <defs>
+    <style>
+      .trail { stroke: #9C92AC; stroke-width: 2; stroke-dasharray: 4 6; stroke-opacity: 0.5; }
+    </style>
+  </defs>
+
+  <!-- Slim subtle ground / trail line -->
+  <line x1="0" y1="42" x2="800" y2="42" class="trail" />
+
+  <!-- Moving Group across screen -->
+  <g>
+    <!-- Slow crawl from left (-60px) to right (860px) -->
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      from="-60,0" 
+      to="860,0" 
+      dur="28s" 
+      repeatCount="indefinite" 
+    />
+
+    <!-- Bobbing motion while crawling -->
+    <g transform="translate(0,0)">
+      <animateTransform 
+        attributeName="transform" 
+        type="translate" 
+        values="0,0; 0,-2.5; 0,0" 
+        dur="1.4s" 
+        repeatCount="indefinite" 
+      />
+
+      <!-- Snail Body -->
+      <path d="M 4 41 C 12 41, 18 39, 28 40 C 36 41, 44 41, 48 37 C 50 35, 52 30, 48 26 C 46 24, 43 25, 41 27 C 39 29, 40 33, 35 34 C 28 35, 20 36, 4 41 Z" fill="#E6C280" />
+
+      <!-- Tentacles & Eyes -->
+      <path d="M 46 27 L 50 18" stroke="#E6C280" stroke-width="2" stroke-linecap="round" />
+      <circle cx="50" cy="17" r="2" fill="#4A3B32" />
+      
+      <path d="M 43 28 L 45 21" stroke="#E6C280" stroke-width="1.8" stroke-linecap="round" />
+      <circle cx="45" cy="20" r="1.5" fill="#4A3B32" />
+
+      <!-- Snail Shell -->
+      <circle cx="24" cy="28" r="13" fill="#9C92AC" stroke="#6B5B7B" stroke-width="2" />
+      <!-- Shell Spiral Line -->
+      <path d="M 24 18 A 10 10 0 1 1 15 30 A 7 7 0 1 1 27 32 A 4 4 0 1 1 23 27" fill="none" stroke="#6B5B7B" stroke-width="2" stroke-linecap="round" />
+      
+      <!-- Slime Trail effect behind snail -->
+      <ellipse cx="2" cy="41.5" rx="4" ry="1" fill="#DFDBE5" opacity="0.8" />
+    </g>
+  </g>
+</svg>
