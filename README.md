@@ -15,37 +15,13 @@ I like my sites standing out, do you?
 
 ### Languages and Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=md" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md" />
 </p>
 
 Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwindcss" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=threejs" />
-  &nbsp&nbsp&nbsp&nbsp;
-  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss,threejs,unity" />
 </p>
 
 React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
