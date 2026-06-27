@@ -16,17 +16,17 @@ Got into tech out of curiosity, stayed because making stuff is addictive.
 ### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" />
-  &nbsp;
+  &nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=python" />
-  &nbsp;
+  &nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=html" />
-  &nbsp;
+  &nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />
-  &nbsp;
+  &nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" />
-  &nbsp;
+  &nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" />
-  &nbsp;
+  &nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=md" />
 </p>
 
@@ -51,7 +51,6 @@ Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
 
 React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
 
-React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
 
 ### Design Tools
 <img src="https://skillicons.dev/icons?i=blender,figma&perline=3" />
