@@ -13,30 +13,14 @@ I like my sites standing out, do you?
 
 ## <span style="text-decoration: underline;">(𝕋)</span>ech Stack
 
-### Languages and Frameworks
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md,react&perline=8" /> </p> 
 <p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,tailwindcss,threejs,unity,blender,figma&perline=8" /> </p>
 
-### Design Tools
-<img src="https://skillicons.dev/icons?i=blender,figma&perline=3" />
 
-Blender • Figma
-
-### Data Science
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=3" />
-
-PyTorch • Scikit-learn
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3" />
-
-MySQL • MongoDB
-
-### Cloud Platforms
-<img src="https://skillicons.dev/icons?i=gcp,aws&perline=3" />
-
-Cloud • AWS
-
+<p align="center"><img src="https://skillicons.dev/icons?i=blender,figma&perline=3" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=3" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=gcp,aws&perline=3" /> </p>
 
 ---
 
