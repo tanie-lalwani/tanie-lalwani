@@ -40,7 +40,7 @@ I like my sites standing out, do you?
   <a href="https://linkedin.com/in/tanie-lalwani">
     <img src="https://skillicons.dev/icons?i=linkedin" width="28" />
   </a>
-  &nbsp;&nbsp;
+ 
 
   <a href="https://instagram.com/tanie.mp3">
     <img src="https://cdn.simpleicons.org/instagram" width="28" />
