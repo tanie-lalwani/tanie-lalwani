@@ -16,17 +16,17 @@ Got into tech out of curiosity, stayed because making stuff is addictive.
 ### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" />
-  &nbsp&nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=python" />
-  &nbsp&nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=html" />
-  &nbsp&nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />
-  &nbsp&nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" />
-  &nbsp&nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" />
-  &nbsp&nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=md" />
 </p>
 
@@ -35,17 +35,17 @@ Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
 ### Frameworks and Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
-  &nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" />
-  &nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  &nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=express" />
-  &nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwindcss" />
-  &nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=threejs" />
-  &nbsp;
+  &nbsp&nbsp&nbsp&nbsp;
   <img src="https://skillicons.dev/icons?i=unity" />
 </p>
 
