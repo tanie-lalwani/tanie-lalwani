@@ -74,12 +74,6 @@
   </a>
 
 
-
-  <a href="https://discord.com/invite/qmveDSKg">
-    <img src="https://cdn.simpleicons.org/discord" width="28" />
-  </a>
-  &nbsp;&nbsp;
-
   <a href="https://drive.google.com/drive/folders/1AiFap-wdsbkANX9OvqxvmgHdS0TPaxs4?usp=sharing">
     <img src="https://cdn.simpleicons.org/googledrive" width="28" />
   </a>
