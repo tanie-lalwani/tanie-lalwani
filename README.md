@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=F7C404&center=true&vCenter=true&width=600&height=70&lines=3D+on+the+web!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=F7C404&center=true&vCenter=true&width=300&height=40&lines=3D+on+the+web!!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
-I'm **T**anie,
+I'm <span style="font-size:1.2em;"><b>T</b></span>anie,<br>
 I like my sites standing out, do you?
 
 ---
