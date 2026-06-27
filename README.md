@@ -23,25 +23,27 @@ Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
 
 React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
 
-### Data Science Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
+### Design Tools
+<img src="https://skillicons.dev/icons?i=blender,figma&perline=3" />
 
-TensorFlow • PyTorch • Scikit-learn
+Blender • Figma
+
+### Data Science
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=3" />
+
+PyTorch • Scikit-learn
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=3" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3" />
 
-MySQL • MongoDB • SQLite
+MySQL • MongoDB
 
 ### Cloud Platforms
-<img src="https://skillicons.dev/icons?i=gcp,aws,azure&perline=3" />
+<img src="https://skillicons.dev/icons?i=gcp,aws&perline=3" />
 
-Google Cloud • AWS • Azure
+Cloud • AWS
 
-### Other Tools
-<img src="https://skillicons.dev/icons?i=blender,figma,git,github,postman,notion&perline=3" />
 
-Blender • Figma • Git • GitHub • Postman • Notion
 ---
 
 ## 🌐 Socials
