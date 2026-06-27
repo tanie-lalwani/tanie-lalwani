@@ -14,35 +14,34 @@ Got into tech out of curiosity, stayed because making stuff is addictive.
 ## Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md&perline=4" />
 
 Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
 
 ### Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss,threejs,unity" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss,threejs,unity&perline=4" />
 
 React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
 
 ### Data Science Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
 
 TensorFlow • PyTorch • Scikit-learn
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=3" />
 
 MySQL • MongoDB • SQLite
 
 ### Cloud Platforms
-<img src="https://skillicons.dev/icons?i=gcp,aws,azure" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure&perline=3" />
 
 Google Cloud • AWS • Azure
 
 ### Other Tools
-<img src="https://skillicons.dev/icons?i=blender,figma,git,github,postman,notion" />
+<img src="https://skillicons.dev/icons?i=blender,figma,git,github,postman,notion&perline=3" />
 
 Blender • Figma • Git • GitHub • Postman • Notion
-
 ---
 
 ## 🌐 Socials
