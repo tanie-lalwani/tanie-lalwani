@@ -3,19 +3,25 @@
 </p>
 
 
-<p align="center">
-  <img src="techstack-card.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="topography-banner.svg" width="100%" />
-</p>
-
 <div align="center">
+
+
+## <span style="text-decoration: underline;">(𝕋)</span>ech Stack
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md&perline=8" /> </p> 
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,tailwindcss,threejs,unity,react&perline=8" /> </p>
+
+
+<p align="center"><img src="https://skillicons.dev/icons?i=blender,figma&perline=3" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=3" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=gcp,aws&perline=3" /> </p>
+
+---
 
 ## 🌐 Socials
 
-<p align="center">
+<p>
   <a href="https://tanie.me">
     <img src="https://cdn.simpleicons.org/googlechrome" width="28" />
   </a>
@@ -40,6 +46,8 @@
   <a href="https://open.spotify.com/user/31mwy5o7trukjpmsv6pupa4dag5q?si=16AwCzXDQWSNPv2WUP9nPw">
     <img src="https://cdn.simpleicons.org/spotify" width="28" />
   </a>
+
+
 
   <a href="mailto:tanielalwani@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="28" />
