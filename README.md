@@ -54,11 +54,6 @@
     <img src="https://cdn.simpleicons.org/x" width="28" />
   </a>
 
-  <a href="https://www.reddit.com/user/tanielalwani/">
-    <img src="https://cdn.simpleicons.org/reddit" width="28" />
-  </a>
-  &nbsp;&nbsp;
-
   <a href="https://www.youtube.com/channel/UC6HS5ZeDFWAWUDF3el7hl6A">
     <img src="https://cdn.simpleicons.org/youtube" width="28" />
   </a>
