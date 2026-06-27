@@ -4,13 +4,13 @@
 
 <div align="center">
 
-I'm <span style="font-size:2em;">𝕋</span>anie,
+I'm **T**anie,
 I like my sites standing out, do you?
 
 ---
 
 
-## <span style="text-decoration: underline;">[ 𝕋 ]</span> ech Stack
+## <span style="text-decoration: underline;">[𝕋]</span> ech Stack
 
 ### Languages and Frameworks
 <p align="center">
