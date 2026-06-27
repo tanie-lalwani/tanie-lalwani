@@ -4,9 +4,11 @@
 
 <div align="center">
 
-## I'm Tanie
+I'm Tanie,
 I like my sites standing out, do you?
+
 ---
+
 
 ## <span style="text-decoration: underline;">[ T ]</span> ech Stack
 
