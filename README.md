@@ -3,6 +3,10 @@
 </p>
 
 
+<p align="center">
+  <img src="topography-banner.svg" width="100%" />
+</p>
+
 <div align="center">
 
 
@@ -17,7 +21,9 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3" /> </p>
 <p align="center"><img src="https://skillicons.dev/icons?i=gcp,aws&perline=3" /> </p>
 
----
+<p align="center">
+  <img src="topography-banner.svg" width="100%" />
+</p>
 
 ## 🌐 Socials
 
