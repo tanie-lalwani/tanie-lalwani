@@ -13,8 +13,8 @@ I like my sites standing out, do you?
 
 ## <span style="text-decoration: underline;">(𝕋)</span>ech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md,react&perline=8" /> </p> 
-<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,tailwindcss,threejs,unity,blender,figma&perline=8" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md&perline=8" /> </p> 
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,tailwindcss,threejs,unity,react&perline=8" /> </p>
 
 
 <p align="center"><img src="https://skillicons.dev/icons?i=blender,figma&perline=3" /> </p>
