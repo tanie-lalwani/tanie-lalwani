@@ -1,7 +1,21 @@
-<svg width="500" height="100">
-  <text x="10" y="50" font-family="Arial" font-size="24" fill="black">
-    <animate attributeName="opacity" dur="2s" values="0;1" keyTimes="0;1" repeatCount="indefinite" />
-    <animate attributeName="x" dur="2s" values="-100;10" keyTimes="0;1" repeatCount="indefinite" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 60" width="100%">
+  <defs>
+    <style>
+      .intro-text {
+        font-family: Arial, sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        fill: #1a202c;
+        animation: slideFade 3s ease-in-out infinite;
+      }
+      @keyframes slideFade {
+        0% { opacity: 0; transform: translateX(-40px); }
+        20%, 80% { opacity: 1; transform: translateX(0px); }
+        100% { opacity: 0; transform: translateX(40px); }
+      }
+    </style>
+  </defs>
+  <text x="50%" y="38" text-anchor="middle" class="intro-text">
     Hey there, have a look at my profile! 👋
   </text>
 </svg>
