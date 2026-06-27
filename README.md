@@ -31,11 +31,6 @@ I like my sites standing out, do you?
     <img src="https://cdn.simpleicons.org/googlechrome" width="28" />
   </a>
  
-
-  <a href="https://github.com/tanie-lalwani">
-    <img src="https://cdn.simpleicons.org/github" width="28" />
-  </a>
-
   <a href="https://linkedin.com/in/tanie-lalwani">
     <img src="https://skillicons.dev/icons?i=linkedin" width="28" />
   </a>
