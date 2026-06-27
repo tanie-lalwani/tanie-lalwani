@@ -6,51 +6,43 @@
 <div align="center">
 
 
-## <span style="text-decoration: underline;">(𝕋)</span>ech Stack
+<p align="center">
+  <img src="techstack-card.svg" width="100%" />
+</p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md&perline=8" /> </p> 
-<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,tailwindcss,threejs,unity,react&perline=8" /> </p>
-
-
-<p align="center"><img src="https://skillicons.dev/icons?i=blender,figma&perline=3" /> </p>
-<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=3" /> </p>
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3" /> </p>
-<p align="center"><img src="https://skillicons.dev/icons?i=gcp,aws&perline=3" /> </p>
-
----
+<p align="center">
+  <img src="topography-banner.svg" width="100%" />
+</p>
 
 ## 🌐 Socials
 
-<p>
+<p align="center">
   <a href="https://tanie.me">
-    <img src="https://cdn.simpleicons.org/googlechrome" width="28" />
+    <img src="https://cdn.simpleicons.org/googlechrome" width="30" />
   </a>
- 
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/tanie-lalwani">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="28" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
   </a>
- 
-
+  &nbsp;&nbsp;
   <a href="https://instagram.com/tanie.mp3">
-    <img src="https://cdn.simpleicons.org/instagram" width="28" />
+    <img src="https://cdn.simpleicons.org/instagram" width="30" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://x.com/tanielalwani">
-    <img src="https://cdn.simpleicons.org/x" width="28" />
+    <img src="https://cdn.simpleicons.org/x" width="30" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UC6HS5ZeDFWAWUDF3el7hl6A">
-    <img src="https://cdn.simpleicons.org/youtube" width="28" />
+    <img src="https://cdn.simpleicons.org/youtube" width="30" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://open.spotify.com/user/31mwy5o7trukjpmsv6pupa4dag5q?si=16AwCzXDQWSNPv2WUP9nPw">
-    <img src="https://cdn.simpleicons.org/spotify" width="28" />
+    <img src="https://cdn.simpleicons.org/spotify" width="30" />
   </a>
-
-
-
+  &nbsp;&nbsp;
   <a href="mailto:tanielalwani@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="28" />
+    <img src="https://cdn.simpleicons.org/gmail" width="30" />
   </a>
 </p>
 
