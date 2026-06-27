@@ -2,9 +2,6 @@
   <img src="header-banner.svg" width="100%" />
 </p>
 
-<p align="center">
-  <img src="topography.svg" width="100%" height="100" style="object-fit: cover; border-radius: 12px;" />
-</p>
 
 <div align="center">
 
@@ -20,9 +17,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3" /> </p>
 <p align="center"><img src="https://skillicons.dev/icons?i=gcp,aws&perline=3" /> </p>
 
-<p align="center">
-  <img src="topography.svg" width="100%" height="60" style="object-fit: cover; border-radius: 12px;" />
-</p>
+---
 
 ## 🌐 Socials
 
