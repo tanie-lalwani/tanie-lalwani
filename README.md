@@ -1,15 +1,6 @@
 <p align="center">
-  <img src="circuit-board.svg" width="100%" />
+  <img src="header-banner.svg" width="100%" />
 </p>
-<div align="center">
-
-
-I like my sites standing out, do you?
-</div>
-              
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=F7C404&center=true&vCenter=true&width=530&height=40&lines=3D+on+the+Web!" alt="Typing SVG" />
-</h1>
 
 <div align="center">
 
