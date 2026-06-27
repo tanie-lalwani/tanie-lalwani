@@ -11,22 +11,52 @@
 ### Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,markdown" alt="Languages" style="margin-right:7px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md" />
+</p>
+<p>
+  Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
+</p>
 
 **Frameworks and Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss,express,flask,threejs,typescript" alt="Frameworks and Libraries" style="margin-right:7px;" />   
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss,threejs,unity" />
+</p>
+<p>
+  React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
+</p>
 
 **Data Science Tools**  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" alt="Data Science Tools" style="margin-right:7px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+<p>
+  TensorFlow • PyTorch • Scikit-learn
+</p>
 
 **Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" style="margin-right:7px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+<p>
+  MySQL • MongoDB • SQLite
+</p>
 
 **Cloud Platforms**  
-<img src="https://skillicons.dev/icons?i=googlecloud,aws,azure" alt="Cloud Platforms" style="margin-right:7px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure" />
+</p>
+<p>
+  Google Cloud • AWS • Azure
+</p>
 
 **Other Tools**  
-<img src="https://skillicons.dev/icons?i=figma,postman,notion,git,github" alt="Other Tools" style="margin-right:7px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,figma,git,github,postman,notion" />
+</p>
+<p>
+  Blender • Figma • Git • GitHub • Postman • Notion
+</p>
 
 ## 🌐 Socials:
 <p align="center">
