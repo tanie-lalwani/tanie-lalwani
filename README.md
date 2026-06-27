@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mesh.svg" width="100%" />
+  <img src="circuit-board.svg" width="100%" />
 </p>
 <div align="center">
 
