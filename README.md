@@ -5,10 +5,7 @@
 <div align="center">
 
 ## I'm Tanie
-Creative Developer • Full Stack • 3D Web <br>
 I like my sites standing out, do you?
-Got into tech out of curiosity, stayed because making stuff is addictive.
-
 ---
 
 ## <span style="text-decoration: underline;">[ T ]</span> ech Stack
