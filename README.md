@@ -1,13 +1,12 @@
+
+I'm **T**anie,
+I like my sites standing out, do you?
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=F7C404&center=true&vCenter=true&width=530&height=40&lines=3D+on+the+Web!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-
-I'm **T**anie,
-I like my sites standing out, do you?
-
----
 
 
 ## <span style="text-decoration: underline;">(𝕋)</span>ech Stack
