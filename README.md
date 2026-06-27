@@ -14,12 +14,12 @@ Got into tech out of curiosity, stayed because making stuff is addictive.
 ## Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md&perline=4" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md&perline=7" />
 
 Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
 
 ### Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss,threejs,unity&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss,threejs,unity&perline=7" />
 
 React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
 
