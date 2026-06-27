@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="mesh.svg" width="100%" />
+</p>
 <div align="center">
 
 
