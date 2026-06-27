@@ -14,12 +14,42 @@ Got into tech out of curiosity, stayed because making stuff is addictive.
 ## Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,ts,md&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=md" />
+</p>
 
 Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
 
 ### Frameworks and Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss,threejs,unity&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=threejs" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=unity" />
+</p>
+
+React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
 
 React • Next.js • Node.js • Express • Tailwind CSS • Three.js • Unity
 
