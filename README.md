@@ -4,7 +4,7 @@
 
 <div align="center">
 
-I'm Tanie,
+I'm **T**anie,
 I like my sites standing out, do you?
 
 ---
