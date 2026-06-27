@@ -4,9 +4,9 @@
 
 <div align="center">
 
-## Hey, I'm Tanie Lalwani
+#### Hey, I'm Tanie Lalwani
 
-Creative Developer: I like my sites standing out, do you?<br>
+Creative Developer: I like my sites standing out, do you?
 Got into tech out of curiosity, stayed because making stuff is addictive.
 
 ---
