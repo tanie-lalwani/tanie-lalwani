@@ -4,8 +4,8 @@
 
 <div align="center">
 
-## Hey, I'm Tanie, creative dev
-
+## I'm Tanie
+Creative Developer • Full Stack • 3D Web <br>
 I like my sites standing out, do you?
 Got into tech out of curiosity, stayed because making stuff is addictive.
 
