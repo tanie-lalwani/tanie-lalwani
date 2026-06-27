@@ -13,7 +13,7 @@ Got into tech out of curiosity, stayed because making stuff is addictive.
 
 ## Tech Stack
 
-### Languages
+### Languages and Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" />
   &nbsp&nbsp&nbsp&nbsp;
@@ -32,7 +32,6 @@ Got into tech out of curiosity, stayed because making stuff is addictive.
 
 Java • Python • HTML • CSS • JavaScript • TypeScript • Markdown
 
-### Frameworks and Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
   &nbsp&nbsp&nbsp&nbsp;
